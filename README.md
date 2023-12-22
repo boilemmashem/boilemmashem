@@ -1,10 +1,12 @@
-# Stick em in a stew
 
 
-![boilemmashem's Stats](https://github-readme-stats-seven-nu-51.vercel.app/api?username=boilemmashem&theme=dracula&show_icons=true&hide_border=true&count_private=tru&hide_rank=true)
-![boilemmashem's Streak](https://github-readme-streak-stats.herokuapp.com/?user=boilemmashem&theme=dracula&hide_border=true)
+![boilemmashem's Stats](https://github-readme-stats-seven-nu-51.vercel.app/api?username=boilemmashem&theme=dark&show_icons=true&hide_border=true&count_private=true&hide_rank=true)
+![boilemmashem's Streak](https://github-readme-streak-stats.herokuapp.com/?user=boilemmashem&theme=dark&hide_border=true)
 
-## Front end
+![Trophies](https://github-profile-trophy.vercel.app/?username=boilemmashem&theme=onestar&no-frame=true&rank=-?)
+
+## Stick em in a stew
+### Front end
 
 ![JavaScript](https://img.shields.io/badge/javascript-grey?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-grey?style=for-the-badge&logo=typescript)
@@ -14,18 +16,18 @@
 ![HTML5](https://img.shields.io/badge/HTML5-grey?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/CSS-grey?style=for-the-badge&logo=CSS3)
 
-## Back end
+### Back end
 
 ![Node](https://img.shields.io/badge/node-grey?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/express-grey?style=for-the-badge&logo=express)
 ![Flask](https://img.shields.io/badge/flask-grey?style=for-the-badge&logo=flask)
 
-## Database
+### Database
 ![MongoDB](https://img.shields.io/badge/mongodb-grey?style=for-the-badge&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-grey?style=for-the-badge&logo=postgresql)
 
 
-## Tools of the trade
+### Tools of the trade
 
 ![VSCode](https://img.shields.io/badge/vscode-grey?style=for-the-badge&logo=visual%20studio%20code)
 ![Docker](https://img.shields.io/badge/docker-grey?style=for-the-badge&logo=docker)
