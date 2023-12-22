@@ -1,8 +1,6 @@
 # Hey there!
 
-## Github stats
-
-![boilemmashem's Stats](https://github-readme-stats-seven-nu-51.vercel.app/api?username=boilemmashem&theme=dracula&show_icons=true&hide_border=true&count_private=true&hide_rank=true&hide_title=true)
+![boilemmashem's Stats](https://github-readme-stats-seven-nu-51.vercel.app/api?username=boilemmashem&theme=dracula&show_icons=true&hide_border=true&count_private=true&hide_rank=true)
 ![boilemmashem's Streak](https://github-readme-streak-stats.herokuapp.com/?user=boilemmashem&theme=dracula&hide_border=true)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=boilemmashem&theme=dracula&no-frame=true&rank=-?)
