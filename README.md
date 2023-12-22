@@ -1,6 +1,8 @@
+# Hey there!
 
+## Github stats
 
-![boilemmashem's Stats](https://github-readme-stats-seven-nu-51.vercel.app/api?username=boilemmashem&theme=dracula&show_icons=true&hide_border=true&count_private=true&hide_rank=true)
+![boilemmashem's Stats](https://github-readme-stats-seven-nu-51.vercel.app/api?username=boilemmashem&theme=dracula&show_icons=true&hide_border=true&count_private=true&hide_rank=true&hide_title=true)
 ![boilemmashem's Streak](https://github-readme-streak-stats.herokuapp.com/?user=boilemmashem&theme=dracula&hide_border=true)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=boilemmashem&theme=dracula&no-frame=true&rank=-?)
@@ -31,10 +33,12 @@
 
 ![VSCode](https://img.shields.io/badge/vscode-grey?style=for-the-badge&logo=visual%20studio%20code)
 ![Docker](https://img.shields.io/badge/docker-grey?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/git-grey?style=for-the-badge&logo=git)
 ![Jira](https://img.shields.io/badge/jira-grey?style=for-the-badge&logo=jira)
 ![Figma](https://img.shields.io/badge/figma-grey?style=for-the-badge&logo=figma)
 ![Illustrator](https://img.shields.io/badge/illustrator-grey?style=for-the-badge&logo=adobe%20illustrator)
 ![Sketch](https://img.shields.io/badge/sketch-grey?style=for-the-badge&logo=sketch)
+![Firefox](https://img.shields.io/badge/firefox-grey?style=for-the-badge&logo=firefox)
 
 
 
