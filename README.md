@@ -31,7 +31,7 @@
 ![VSCode](https://img.shields.io/badge/vscode-grey?style=for-the-badge&logo=visual%20studio%20code)
 ![Docker](https://img.shields.io/badge/docker-grey?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/git-grey?style=for-the-badge&logo=git)
-![Prisma](https://img.shields.io/badge/git-grey?style=for-the-badge&logo=prisma)
+![Prisma](https://img.shields.io/badge/prisma-grey?style=for-the-badge&logo=prisma)
 ![Jira](https://img.shields.io/badge/jira-grey?style=for-the-badge&logo=jira)
 ![Figma](https://img.shields.io/badge/figma-grey?style=for-the-badge&logo=figma)
 ![Illustrator](https://img.shields.io/badge/illustrator-grey?style=for-the-badge&logo=adobe%20illustrator)
