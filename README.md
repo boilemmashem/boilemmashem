@@ -1,7 +1,9 @@
 # Hey there!
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=boilemmashem)](https://git.io/streak-stats)
+
 ![Trophies](https://github-profile-trophy.vercel.app/?username=boilemmashem&theme=dracula&no-frame=true&rank=-?)
+
 
 ## Stick em in a stew
 ### Front end
