@@ -14,6 +14,7 @@
 ![React](https://img.shields.io/badge/react-grey?style=for-the-badge&logo=react)
 ![11ty](https://img.shields.io/badge/11ty-grey?style=for-the-badge&logo=eleventy&logoColor=red)
 ![Tailwind](https://img.shields.io/badge/tailwind-grey?style=for-the-badge&logo=tailwindcss)
+![NextJS](https://img.shields.io/badge/NextJS-grey?style=for-the-badge&logo=nextdotjs)
 ![HTML5](https://img.shields.io/badge/HTML5-grey?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/CSS-grey?style=for-the-badge&logo=CSS3)
 
