@@ -3,6 +3,8 @@
 [![GitHub Streak](https://github-readme-streak-stats-hwo2.vercel.app?user=boilemmashem&theme=dracula&hide_border=true&border_radius=4&date_format=%5BY%20%5DM%20j&card_width=640)](https://git.io/streak-stats)</br>
 ![Trophies](https://github-profile-trophy.vercel.app/?username=boilemmashem&theme=dracula&no-frame=true&rank=-?)
 
+![Profile views](https://komarev.com/ghpvc/?username=boilemmashem&color=282a36)
+
 
 ## Stick em in a stew
 ### Front end
